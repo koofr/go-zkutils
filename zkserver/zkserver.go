@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"git.koofr.lan/go-zkutils.git"
+	"github.com/koofr/go-zkutils"
 	"log"
 )
 

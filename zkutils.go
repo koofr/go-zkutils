@@ -1,7 +1,7 @@
 package zkutils
 
 import (
-	zk "launchpad.net/gozk"
+	zk "github.com/koofr/gozk"
 	"strings"
 )
 

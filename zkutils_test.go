@@ -1,11 +1,11 @@
 package zkutils_test
 
 import (
-	"git.koofr.lan/go-netutils.git"
-	. "git.koofr.lan/go-zkutils.git"
+	"github.com/koofr/go-netutils"
+	. "github.com/koofr/go-zkutils"
+	zk "github.com/koofr/gozk"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	zk "launchpad.net/gozk"
 	"strconv"
 )
 

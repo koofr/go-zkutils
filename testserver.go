@@ -2,8 +2,8 @@ package zkutils
 
 import (
 	"fmt"
+	zk "github.com/koofr/gozk"
 	"io/ioutil"
-	zk "launchpad.net/gozk"
 	"os"
 )
 
